@@ -1,5 +1,5 @@
-# Google-Map-Clone
-Implement a website similar to Google Map navigation function by using Mapbox GLJS API (learned by Web Dev Simplified)
+# Google-Map-Clone ( learned from Web Dev Simplified )
+Implement a website similar to Google Map navigation function by using Mapbox GLJS API 
 
 ## Website
 https://google-map-lone.netlify.app/
