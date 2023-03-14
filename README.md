@@ -6,3 +6,8 @@ Implement a website similar to Google Map navigation function by using Mapbox GL
 3. Pick a vehicle you want to go for, there are 4 choices such as public traffic, driving yourself, walking, or biking
 4. the top-right tool you can zoom in, zoom out, rotate the map
 
+### Learned
+* How to setup Mapbox
+* Geolocation API
+* Mapbox plugins
+
